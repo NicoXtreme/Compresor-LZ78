@@ -1,0 +1,1 @@
+# Utilidad: Constantes globales de la aplicación

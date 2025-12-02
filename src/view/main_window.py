@@ -1,0 +1,1 @@
+# Vista: Interfaz gráfica principal

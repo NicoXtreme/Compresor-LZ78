@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo para probar la compresión LZ78.
+Se puede usar para validar que el algoritmo funciona correctamente.
+Los archivos de muestra ayudan en las pruebas del sistema.

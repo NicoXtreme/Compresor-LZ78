@@ -1,0 +1,2 @@
+# Dependencias del proyecto
+# Tkinter viene incluido con Python, solo necesitamos librerías adicionales si es necesario
